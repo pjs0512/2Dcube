@@ -8,16 +8,16 @@
 
 入力したらルービックキューブが回します。
 
-最初には50回、ランダムに回します。
+最初には50回、ランダムに回します<br>
 ![alt text](READMEsrc/noname01.jpg)
 
-ルービックキューブを完成する方法に従って白い面をまず完成します。
+ルービックキューブを完成する方法に従って白い面をまず完成します。<br>
 ![alt text](READMEsrc/noname02.jpg)
 
-最後に一回残りました。
+最後に一回残りました。<br>
 ![alt text](READMEsrc/noname03.jpg)
 
-完成です！
+完成です！<br>
 ![alt text](READMEsrc/noname04.jpg)
 
 72場合の選択をいちいちしました。
